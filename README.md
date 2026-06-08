@@ -81,3 +81,192 @@
             <p>20 USD</p>
             <button>ADD TO CART</button>
         </div>
+        .{
+    margin:0;
+    padding: 0;
+}
+.img {
+    height: 95px;
+    width: 160px;
+    overflow: hidden;
+} 
+.container {
+    display: block;
+    margin-bottom: 160px;
+
+}
+.navbar {
+       background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+}
+.menu {
+      display: block;
+    color: black;
+    padding: 10px;
+    display: flex;
+    list-style: none;
+}
+.container {
+     width: fixed(1140px);
+    height: fixed(71px);
+    top: 30px;
+    left: 150px;
+    justify-content: space-between;
+}
+ul {
+    padding-top: 100px;
+    margin-left: 950px;
+}
+ul li {
+    padding: 20px;
+}
+
+a {
+    padding-top: 30px;
+}
+.body1 {
+    margin-top: 0%;
+    padding-top: 0px;
+    background-color: white;
+    height: 461px;
+    width: auto;
+    box-sizing: border-box;
+    display: flex;
+}
+.box1 {
+    margin: 0;
+    word-wrap: break-word;
+    overflow-wrap: anywhere;
+    font-size: 30px;
+    opacity: 60%; 
+}
+.box1 p {
+    margin: 0;
+    word-wrap: break-word;
+    overflow-wrap: anywhere;
+    font-size: 30px;
+    opacity: 60%;
+}
+.box2 {
+    overflow: hidden;
+    width: 50%;
+    height: auto;
+}
+.box2img {
+   width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+.tittle {
+     font-size: 60px;
+    font-weight: 700;
+    line-height: 0.95;
+    letter-spacing: 2px;
+}
+ .always {
+    color: #222222;
+ }
+ .fresh {
+    color: #d96b2b;
+ }
+ .flowers {
+   color: #d96b2b; 
+ }
+.plants-item{
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: auto;
+}
+.our {
+      color: #d96b2b;
+}
+.plants {
+     color: #222222;
+}
+.p2 {
+   display: block;
+    text-align: center;
+    font-size: 30px;
+    opacity: 50%; 
+}
+.products {
+        display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.card {
+    width: 330.5px;
+    text-align: center;
+    background: #fff;
+}
+.card image/Frame 10037.png {
+     width: 100%;
+    height: 322.9375;
+    object-fit: cover;
+    display: block;
+}
+.card2 h3 {
+     font-size: 18px;
+    margin: 15px 0 8px;
+    font-weight: 500;
+}
+.card2 p {
+        font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.card2 button {
+    width: 100%;
+    padding: 15px;
+    border: none;
+    background: #d85a24;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.flower-shop {
+    width: 50%;
+    height: auto;
+    overflow: hidden;
+    margin-right: 100px;
+}
+.flower-shop image
+ {
+    width: 50%;
+    height: auto;
+    overflow: hidden;
+    margin-right: 100px;
+}
+.sp {
+       overflow: hidden;
+    width: 40%;
+    height: auto;
+}
+.fp {
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 0.95;
+    letter-spacing: 2px;
+}
+.lover {
+     font-size: 60px;
+    font-weight: 700;
+    line-height: 0.95;
+    letter-spacing: 2px;
+}
+.sp p {
+     display: block;
+    text-align: left;
+    font-size: 25px;
+    opacity: 50%; 
+}
+
